@@ -12,18 +12,13 @@ import java.util.Scanner;
  *
  * @author michael.tomchak
  */
-public class FinalProject {
+public class FinalProjectExtended {
     static Scoreboard board;
      
-    // main class with objects to print out words
+    
      public static void main(String[] args) {
-          int RANDOM_NUMBER_MAX = 9;
-           int RANDOM_NUMBER_LOW = 1; 
-          Random randGenerator = new Random();
-        int randNum = randGenerator.nextInt(RANDOM_NUMBER_MAX + RANDOM_NUMBER_LOW);
-        int randNumNew = randGenerator.nextInt(RANDOM_NUMBER_MAX + RANDOM_NUMBER_LOW);
         System.out.println("Welcome to the Game!!");
-    // object instantiation of board & scoreboard   
+       
         board = new Scoreboard();
         System.out.println("Enter Home Team Name");
         System.out.println("*********");
@@ -31,22 +26,21 @@ public class FinalProject {
         System.out.println("*********");
         inputTeam();
         
-    // score of the game is printed out    
-        board.scoreHome = randNum;
-        board.scoreAway = randNumNew;
+        
+        board.scoreHome = 3;
+        board.scoreAway = 2;
         printScore(board);
         
           
             
-     } // close main
+     } // close mainPir
      
      public static void printScore(Scoreboard sb ) {
-         // random number to generate the inning number
-         int RANDOM_NUMBER_MAX = 9;
+           int RANDOM_NUMBER_MAX = 9;
            int RANDOM_NUMBER_LOW = 1; 
           Random randGenerator = new Random();
         int randNum = randGenerator.nextInt(RANDOM_NUMBER_MAX + RANDOM_NUMBER_LOW);
-        // info about the game once again printed out 
+         
          System.out.println("The game is in inning number " + randNum);
          System.out.println("The score is: " + "Home Team:" + sb.scoreHome + " " + "Away Team:" + sb.scoreAway );
          System.out.println("The winner is: " + sb.getWinner());
@@ -54,7 +48,6 @@ public class FinalProject {
      } // close printScore
      
      public static void inputTeam() {
-        // allows user to input team names of their choice
          Scanner scanner = new Scanner(System.in);
          String homeTeam = scanner.next();
          String awayTeam = scanner.next();
