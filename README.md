@@ -1,4 +1,4 @@
-# cit111_ccac
+# Java Portfoilo of Michael Tomchak
 Programs & code made by me in CIT 111 - Intro to Java Programming
 
 ## About me
