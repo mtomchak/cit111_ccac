@@ -2,16 +2,16 @@
 Programs & code made by me in CIT 111 - Intro to Java Programming
 
 ## Java Projects
-* Kennywood Ride Tracker-
+* Kennywood Ride Tracker- Developed code that would determine if a person was able to go on a ride at Kennywood
 * Car Land- Demonstrated object instatiaion
-* Fully Functional Baseball Scoreboard-
+* Baseball Scoreboard- Fully functional baseball scoreboard. Choose your own team.
 
 ## Technical Skills
 * Visual Basic
 * SQL in MS Access and Libre Office Base
 * HTML
 * Java
-* Agile
+* Agile Software
 
 
 ## Cyber Security Projects
