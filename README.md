@@ -2,13 +2,13 @@
 Programs & code made by me in CIT 111 - Intro to Java Programming
 
 ## Java Projects
-* Kennywood Ride Tracker
-* Car Land
-* Fully Functional Baseball Scoreboard
+* Kennywood Ride Tracker-
+* Car Land- Demonstrated object instatiaion
+* Fully Functional Baseball Scoreboard-
 
 ## Technical Skills
 * Visual Basic
-* SQL 
+* SQL in MS Access and Libre Office Base
 * HTML
 * Java
 * Agile
@@ -17,6 +17,8 @@ Programs & code made by me in CIT 111 - Intro to Java Programming
 ## Cyber Security Projects
 * Completed multiple cases in Forensic Tool Kit (FTK)
 * Fully complete project and report for Final Case
+* Anazlyed images, decrypted files, password recovery
+
 
 
 ## Background
