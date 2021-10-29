@@ -9,9 +9,10 @@ Programs & code made by me in CIT 111 - Intro to Java Programming
 ## Technical Skills
 * Visual Basic
 * SQL in MS Access and Libre Office Base
-* HTML
+* HTML/CSS
+* Python
 * Java
-* Agile Software
+* Agile 
 
 
 ## Cyber Security Projects
@@ -22,6 +23,10 @@ Programs & code made by me in CIT 111 - Intro to Java Programming
 
 ## SQL Projects
 * (RoyalResorts) A hotel database created from scratch with fictional info inputted for it to function as real hotel database
+
+## Python Projects
+* (Option2) Created a Menu Driven Program with 5 options using .csv files and JSON that reads data from a user file
+* Program displays a full crime report, crimes for each beat, and a bar chart for user inputted data
 
 
 
